@@ -1,0 +1,67 @@
+.modalProdName{
+    position: relative;
+    width:15rem;
+}
+
+.qtyTable2{
+    max-width: 2rem;
+}
+
+.modal-footer{
+    padding-top: 0rem;
+}
+
+/***** Modal *****/
+
+h3 {
+	font-size: 22px;
+    font-weight: 300;
+    color: #555;
+    line-height: 30px;
+}
+
+#modal-register .modal-content {
+	-moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;
+	border: 0;
+	text-align: left;
+}
+
+#modal-register .modal-header {
+	padding: 25px 25px 15px 25px;
+	background: #fff;
+	border: 0;
+	border-bottom: 1px solid #ddd;
+	-moz-border-radius: 4px 4px 0 0; -webkit-border-radius: 4px 4px 0 0; border-radius: 4px 4px 0 0;
+}
+
+#modal-register .modal-header .close {
+	font-size: 36px;
+	color: #888;
+	font-weight: 300;
+	text-shadow: none;
+	opacity: 1;
+}
+
+#modal-register .modal-title {
+	margin-bottom: 10px;
+	line-height: 30px;
+}
+
+#modal-register .modal-body {
+	padding: 25px 25px 30px 25px;
+	background: #eee;
+	text-align: left;
+	-moz-border-radius: 0 0 4px 4px; -webkit-border-radius: 0 0 4px 4px; border-radius: 0 0 4px 4px;
+}
+
+#modal-register .modal-body img {
+	margin-bottom: 15px;
+}
+
+#modal-register .modal-body form textarea {
+	height: 100px;
+}
+
+#modal-register .modal-body form .input-error {
+	border-color: #fd625e;
+}
