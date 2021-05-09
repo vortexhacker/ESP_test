@@ -1,7 +1,7 @@
 # ESP_test
 
 Image Processing App built in PHP by Ruphin Lobanga alias Vortex Hacker. 
-You will find Resized images are located inside Uploads/ResizedImages
+You will find Resized images under Uploads/ResizedImages
 
 ![image](https://user-images.githubusercontent.com/64105391/117588669-408fbc00-b125-11eb-8010-adb458c6b411.png)
 
